@@ -20,3 +20,8 @@ This project is a simple web-based implementation of a Pacman game, where you ca
    ```bash
    git clone https://github.com/your-username/pacman-game.git
 ## MIT LISENCCE
+
+### Instructions for Use:
+- Replace `your-username` in the installation section with your actual GitHub username.
+- If you have a demo image, replace `path-to-your-demo-image.png` with the actual path or URL of your demo image.
+- You can modify any sections to better fit your project's needs or add additional information!
